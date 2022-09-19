@@ -38,7 +38,9 @@ output *simliar* to
 4. `avail` column is the total number of IPv4 addresses available
 5. `req` column is the number of IPv4 addresses required
 6. `name` column is the identifier used for a specific customer  
+
 <br/>
+
 > ***Note:** Subnet mask, usable address range, broadcast address and other trivial details have been ommited for concision.*  
 
 <br/>
